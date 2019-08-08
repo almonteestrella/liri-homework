@@ -1,0 +1,1131 @@
+Invalid Instruction
+
+---------------------------------------------------
+
+Song: Kitipun
+Artist: Juan Luis Guerra 4.40
+Error occurred: TypeError: Cannot read property 'preview_url' of undefined
+
+---------------------------------------------------
+
+Title: Tomorrow Never Dies
+Release Year: 1997
+IMDB Rating: 6.5
+Country: UK, USA
+Rotten Tomatoes Rating: 58%
+Language: English, German, Danish, Mandarin, Cantonese
+Plot: James Bond heads to stop a media mogul's plan to induce war between China and the UK in order to obtain exclusive global media coverage.
+Actors: Pierce Brosnan, Jonathan Pryce, Michelle Yeoh, Teri Hatcher
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Karibe con K
+Album: Oro & Platino Vol.2
+Song: Me Niego a Estar Solo
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/9ade3fb114b43a0743f7f10679b129a92adca7c0?cid=123e43bb168e4ac6b1ea782e0847e1bc
+
+---------------------------------------------------
+
+Song: Me Niego a Estar Solo
+Error occurred: TypeError: Cannot read property 'preview_url' of undefined
+Artist: Karibe con K
+
+---------------------------------------------------
+
+Artist: Luis Miguel
+Song: La Incondicional
+Error occurred: TypeError: Cannot read property 'preview_url' of undefined
+
+---------------------------------------------------
+
+Date: 09/18/2019
+Name: Centre Videotron
+City: Quebec
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/20/2019
+Name: Centre Videotron
+City: Quebec
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/21/2019
+Name: Centre Videotron
+City: Quebec
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/26/2019
+Name: Bell Centre
+City: Montreal
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/27/2019
+Name: Bell Centre
+City: Montreal
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/30/2019
+Name: Bell Centre
+City: Montreal
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/01/2019
+Name: Bell Centre
+City: Montreal
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/04/2019
+Name: Bell Centre
+City: Montreal
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/05/2019
+Name: Bell Centre
+City: Montreal
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/15/2019
+Name: Canadian Tire Centre
+City: Kanata
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/16/2019
+Name: Canadian Tire Centre
+City: Kanata
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/18/2019
+Name: Rocket Mortgage FieldHouse
+City: Cleveland
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/20/2019
+Name: Schottenstein Center
+City: Columbus
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/22/2019
+Name: KFC Yum! Center
+City: Louisville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/24/2019
+Name: U.S. Bank Arena
+City: Cincinnati
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Enterprise Center
+Date: 10/26/2019
+City: St. Louis
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/28/2019
+Name: Sprint Center
+City: Kansas City
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/30/2019
+Name: Fargodome
+City: Fargo
+Country: ND
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/01/2019
+Name: Target Center
+City: Minneapolis
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/03/2019
+Name: Fiserv Forum
+City: Milwaukee
+Country: WI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/05/2019
+Name: Little Caesars Arena
+City: Detroit
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/01/2019
+Name: United Center
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/03/2019
+Name: Bankers Life Fieldhouse
+City: Indianapolis
+Country: IN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/05/2019
+Name: KeyBank Center
+City: Buffalo
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/07/2019
+Name: Times Union Center
+City: Albany
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/09/2019
+Name: Scotiabank Arena
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/10/2019
+Name: Scotiabank Arena
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/13/2019
+Name: TD Garden
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/14/2019
+Name: TD Garden
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/08/2020
+Name: VyStar Veterans Memorial Arena
+City: Jacksonville
+Country: United States
+Country: FL
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/11/2020
+Name: State Farm Arena
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/13/2020
+Name: Bridgestone Arena
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/15/2020
+Name: Amalie Arena
+City: Tampa
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/17/2020
+Name: AmericanAirlines Arena
+City: Miami
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/18/2020
+Name: AmericanAirlines Arena
+City: Miami
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/21/2020
+Name: Spectrum Center
+City: Charlotte
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/30/2020
+Name: AT&T Center
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+City: San Antonio
+
+---------------------------------------------------
+
+Date: 02/01/2020
+Name: Toyota Center
+City: Houston
+Country: TX
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 02/03/2020
+Name: American Airlines Center
+City: Dallas
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/05/2020
+Name: BOK Center
+City: Tulsa
+Country: OK
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/07/2020
+Name: Smoothie King Center
+City: New Orleans
+Country: LA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/09/2020
+Name: FedExForum
+City: Memphis
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/11/2020
+Name: PNC Arena
+City: Raleigh
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/22/2020
+Name: Boardwalk Hall
+City: Atlantic City
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/24/2020
+Name: Royal Farms Arena (formerly Baltimore Arena)
+City: Baltimore
+Country: MD
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/26/2020
+Name: Wells Fargo Center
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/28/2020
+Name: Barclays Center
+City: Brooklyn
+Country: NY
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+Date: 02/29/2020
+Name: Barclays Center
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/03/2020
+Name: NYCB LIVE, Home of The Nassau Veterans Memorial Coliseum
+City: Uniondale
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/07/2020
+Name: Prudential Center
+City: Newark
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/08/2020
+Name: Prudential Center
+City: Newark
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/11/2020
+Name: Capital One Arena
+City: Washington
+Country: DC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/13/2020
+Name: PPG Paints Arena
+City: Pittsburgh
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/24/2020
+Name: Pepsi Center
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/26/2020
+Name: Vivint Smart Home Arena
+City: Salt Lake City
+Country: UT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/30/2020
+Name: Gila River Arena
+City: Glendale
+Country: AZ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/02/2020
+Name: Staples Center
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/07/2020
+Name: Golden 1 Center
+City: Sacramento
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/09/2020
+Name: Oracle Arena
+City: Oakland
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/11/2020
+Name: Chase Center
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/13/2020
+Name: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+City: Portland
+Country: OR
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/15/2020
+Name: Tacoma Dome
+City: Tacoma
+Country: WA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/17/2020
+Name: Rogers Arena
+City: Vancouver
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/21/2020
+Name: Rogers Place
+City: Edmonton
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/25/2020
+Name: Sasktel Centre
+City: Saskatoon
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/27/2020
+Name: Bell MTS Place
+City: Winnipeg
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/31/2019
+Name: Sames Auto Arena
+City: Laredo
+Country: United States
+Country: TX
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: American Bank Center Selena Auditorium
+City: Corpus Christi
+Country: TX
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Name: Toyota Center
+City: Houston
+Country: TX
+Date: 09/04/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/07/2019
+Name: American Airlines Center
+City: Dallas
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/11/2019
+Name: Don Haskins Center
+City: El Paso
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/13/2019
+Name: Talking Stick Resort Arena
+City: Phoenix
+Country: AZ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/14/2019
+Name: MGM Grand Garden Arena
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/20/2019
+Name: The Forum
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/21/2019
+Name: The Forum
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/22/2019
+Name: The Forum
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/27/2019
+Name: SAP Center at San Jose
+City: San Jose
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/28/2019
+Name: SAP Center at San Jose
+City: San Jose
+Date: 09/06/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/29/2019
+Name: North Island Credit Union Ampitheatre
+City: Chula Vista
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/09/2019
+Name: Pepsi Center
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/11/2019
+Name: Allstate Arena
+City: Rosemont
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/12/2019
+Name: Allstate Arena
+City: Rosemont
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/17/2019
+Name: Scotiabank Arena
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/19/2019
+Name: Barclays Center
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/20/2019
+Name: Greensboro Coliseum Complex
+City: Greensboro
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/22/2019
+Name: EagleBank Arena
+City: Fairfax
+Country: VA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/25/2019
+Name: American Airlines Arena
+City: Miami
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/27/2019
+Name: Infinite Energy Theater
+City: Duluth
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/06/2019
+Name: Don Haskins Center
+City: El Paso
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/08/2019
+Name: Toyota Center
+City: Houston
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/09/2019
+Name: American Airlines Center
+City: Dallas
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/14/2019
+Name: Bert Ogden Arena
+City: Edinburg
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/15/2019
+Name: AT&T Center
+City: San Antonio
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/17/2019
+Name: Talking Stick Resort Arena
+City: Phoenix
+Country: AZ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/22/2019
+Name: The Forum
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/23/2019
+Name: The Forum
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/24/2019
+Name: The Forum
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/27/2019
+Name: Golden 1 Center
+City: Sacramento
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/30/2019
+Name: Oracle Arena
+City: Oakland
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/05/2019
+Name: Save Mart Center
+City: Fresno
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+Country: CA
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Error occurred: TypeError: Cannot read property 'preview_url' of undefined
+Song: I Want It That Way
